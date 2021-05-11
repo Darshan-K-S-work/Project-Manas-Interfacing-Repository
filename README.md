@@ -1,4 +1,4 @@
-# Project-Manas-Interfacing-Repository
+# Games
 Tasks for the Interfacing Subdivision in the SnA taskphase.
 Contents:
 1. Tic Tac Toe
